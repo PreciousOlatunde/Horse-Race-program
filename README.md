@@ -15,7 +15,8 @@ Files Needed:
 4. race.cpp
 5. tournament.h
 6. tournament.cpp
-7. makefile
+7. main.cpp
+8. makefile
 
 How to run/execute the program:
 1. All aforementioned files must be present and in the current working directory
